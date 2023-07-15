@@ -1,0 +1,39 @@
+body{
+    background:rgb(219, 11, 219);
+}
+.box{
+    background:rgb(135, 215, 14);
+    border:8px solid black;
+    width:700px;
+    height:250px;
+    margin-top:10%;
+    
+}
+h1{
+    color:blueviolet;
+    font-style: bold;
+    
+}
+h2{
+    color:red;
+
+}
+h3{
+    color:rgb(180, 8, 168);
+}
+
+p{
+    color: blue;
+}
+label{
+    color: palevioletred;
+}
+#result{
+    height: 25px;
+    width: fit-content;
+    background: black;
+    margin: auto;
+    margin-top: 25px;
+    color: aqua;
+    font-size: large;
+}
